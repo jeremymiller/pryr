@@ -1,3 +1,6 @@
+**_NOTE_: This is a duplicate copy of the pryr version 0.1.6 originally available on [CRAN](https://cran.r-project.org/src/contrib/Archive/pryr/).  Direct file download [HERE](https://cran.r-project.org/src/contrib/Archive/pryr/pryr_0.1.6.tar.gz).  This repo was created solely to fulfill a requirement for [Annotation Comparison Explorer](https://sea-ad.shinyapps.io/ACEapp/) to work correctly on shinyapps.io.  All credit for this R library belongs to the original authors.**
+
+
 # pryr
 
 <!-- badges: start -->
